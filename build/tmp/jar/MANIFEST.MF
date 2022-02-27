@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: SINEMod
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2021-11-25T23:39:10+0800
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
